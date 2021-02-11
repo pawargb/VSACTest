@@ -7,6 +7,8 @@ target 'VSACTest' do
 
   # Pods for VSACTest
 
+pod 'AppCenter'
+
   target 'VSACTestTests' do
     inherit! :search_paths
     # Pods for testing
